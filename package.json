@@ -15,7 +15,8 @@
     "export": "cd backend && yarn strapi export --no-encrypt -f  ../seed-data"
   },
   "dependencies": {
-    "concurrently": "^7.6.0"
+    "concurrently": "^7.6.0",
+    "nvm": "^0.0.4"
   },
   "author": "",
   "license": "ISC"
